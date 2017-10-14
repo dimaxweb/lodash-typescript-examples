@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="5310ff67-a1d5-4b48-9451-b47c18b6c1ed" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chain/basic-chain.js" afterPath="$PROJECT_DIR$/src/fp/chain/basic-chain.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chain/basic-chain.ts" afterPath="$PROJECT_DIR$/src/fp/chain/basic-chain.ts" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="basic-chain.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fp/chain/basic-chain.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/__tests__/chain/basic-chain.ts" />
+        <option value="$PROJECT_DIR$/__tests__/chain/basic-chain-spec.js" />
+        <option value="$PROJECT_DIR$/__tests__/chain/basic-chain-spec.ts" />
+        <option value="$PROJECT_DIR$/src/chain/basic-chain.ts" />
+        <option value="$PROJECT_DIR$/src/index.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmogilc\projects\lodash-typescript\src\fp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.chain with pick and sort by">
+    <configuration name="Should greet with message" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/greeter-spec.ts" />
+      <test-names>
+        <test-name value="Should greet with message" />
+      </test-names>
+    </configuration>
+    <configuration name="Should have Greeter available" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/index-spec.ts" />
+      <test-names>
+        <test-name value="Should have Greeter available" />
+      </test-names>
+    </configuration>
+    <configuration name="basic-chain-spec.ts" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/__tests__/chain/basic-chain-spec.ts" />
+    </configuration>
+    <configuration name="chain with pick and sort by" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/chain/basic-chain-spec.ts" />
+      <test-names>
+        <test-name value="chain with pick and sort by" />
+      </test-names>
+    </configuration>
+    <configuration name="instances not the same" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/chain/basic-chain-spec.ts" />
+      <test-names>
+        <test-name value="instances not the same" />
+      </test-names>
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Jest.Should greet with message" />
+      <item index="1" class="java.lang.String" itemvalue="Jest.Should have Greeter available" />
+      <item index="2" class="java.lang.String" itemvalue="Jest.instances not the same" />
+      <item index="3" class="java.lang.String" itemvalue="Jest.basic-chain-spec.ts" />
+      <item index="4" class="java.lang.String" itemvalue="Jest.chain with pick and sort by" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Jest.chain with pick and sort by" />
+        <item index="1" class="java.lang.String" itemvalue="Jest.basic-chain-spec.ts" />
+        <item index="2" class="java.lang.String" itemvalue="Jest.instances not the same" />
+        <item index="3" class="java.lang.String" itemvalue="Jest.Should have Greeter available" />
+        <item index="4" class="java.lang.String" itemvalue="Jest.Should greet with message" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5310ff67-a1d5-4b48-9451-b47c18b6c1ed" name="Default" comment="" />
+      <created>1507482810718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507482810718</updated>
+      <workItem from="1507482812194" duration="11149000" />
+      <workItem from="1507978024547" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="basic-chain-spec_ts - 2017.10.08 at 21h 24m 37s.xml">
+      <configuration name="basic-chain-spec.ts" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 35m 14s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 36m 01s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 37m 00s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 37m 58s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 38m 45s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 39m 38s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 41m 31s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 42m 26s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="chain_with_pick_and_sort_by - 2017.10.08 at 21h 44m 10s.xml">
+      <configuration name="chain with pick and sort by" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11801000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30952382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38879457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25860155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/main.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/main.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/app-routing.module.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/title.component.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/user.service.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/highlight.directive.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/highlight.directive.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/app.component.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/title.component.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/app-routing.module.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/app.module.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/app.module.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/user.service.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/app.component.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero-routing.module.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero-detail.component.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero.module.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero.module.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero-list.component.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero-routing.module.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero.service.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero-list.component.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero.component.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/highlight.directive.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero.service.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/highlight.directive.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero-detail.component.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/hero/hero.component.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis.service.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis-detail.component.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis-detail.component.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis-list.component.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis.module.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis-list.component.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis-routing.module.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis.service.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis.module.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/crisis/crisis-routing.module.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/awesome.pipe.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact-routing.module.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact.service.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact.module.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact.component.3.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/highlight.directive.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/highlight.directive.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact-routing.module.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact.component.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact.module.3.js.map" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/contact.service.js" />
+        <option value="$PROJECT_DIR$/../pre-shared.3.ngmodule/src/app/contact/awesome.pipe.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsOperationLog">
+    <option name="operations">
+      <list>
+        <P4MoveRenameOperation>
+          <option name="changeList" value="Default" />
+          <option name="oldPath" value="$PROJECT_DIR$/src/chain/basic-chain.js" />
+          <option name="newPath" value="$PROJECT_DIR$/src/fp/chain/basic-chain.js" />
+        </P4MoveRenameOperation>
+        <P4MoveRenameOperation>
+          <option name="changeList" value="Default" />
+          <option name="oldPath" value="$PROJECT_DIR$/src/chain/basic-chain.ts" />
+          <option name="newPath" value="$PROJECT_DIR$/src/fp/chain/basic-chain.ts" />
+        </P4MoveRenameOperation>
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/__tests__/chain/basic-chain-spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fp/chain/basic-chain.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/chain/basic-chain-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/greeter.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/greeter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/greeter-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/__tests__/index-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/__tests__/index-spec.js" />
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fp/chain/basic-chain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507538313476" expanded="true" signature="150:749" ph="{...}" />
+            <marker date="1507538313476" expanded="true" signature="296:503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greeter.js" />
+    <entry file="file://$PROJECT_DIR$/src/greeter.ts" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/chain/basic-chain-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/chain/basic-chain-spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fp/chain/basic-chain.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
