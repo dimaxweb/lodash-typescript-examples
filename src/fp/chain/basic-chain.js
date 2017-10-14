@@ -10,8 +10,8 @@ var ChainExample = /** @class */ (function () {
             .get(properties)
             .reject(reject)
             .thru(function (adresses) {
-            return adresses[0];
-        })
+              return adresses[0];
+            })
             .value();
     };
     ChainExample.prototype.getMapFilterAndSort = function (path, map, filter, sort) {

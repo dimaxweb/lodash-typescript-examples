@@ -9,6 +9,7 @@ export class ChainExample {
   }
 
   public getPropertyAndRemoveValues (properties : String [], reject:Function){
+
     return _.chain(this.complexObject)
       .get(properties)
       .reject(reject)
@@ -21,6 +22,9 @@ export class ChainExample {
   public getMapFilterAndSort (path : String, map : Function, filter:Function, sort :Function){
     return _.chain(this.complexObject)
       .get(path)
+      .map(map)
+      .filter(filter)
+      .sort(sort)
       .value();
   }
 }
