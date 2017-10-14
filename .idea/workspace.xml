@@ -42,11 +42,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic-chain.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="curry.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/function/curry.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="partial.spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/function/partial.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <marker date="1508013555297" expanded="true" signature="217:358" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="partial.spec.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__tests__/function/partial.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="objectValidator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/fp/objectValidator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-chain.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fp/chain/basic-chain.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/function/DomEvents/dom.events.html" />
         <option value="$PROJECT_DIR$/src/fp/composition/complexApplicationFlow.ts" />
         <option value="$PROJECT_DIR$/src/fp/chain/basic-chain.ts" />
+        <option value="$PROJECT_DIR$/__tests__/function/partial.spec.ts" />
       </list>
     </option>
   </component>
@@ -179,6 +222,37 @@
               <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
               <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="fp" type="462c0819:PsiDirectoryNode" />
+              <item name="objectValidator.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lodash-typescript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lodash-typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="partial.spec.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -214,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.test functional switch">
+  <component name="RunManager" selected="Jest.max price is greate than 250">
     <configuration name="Partial function" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <working-dir value="$PROJECT_DIR$" />
@@ -235,14 +309,24 @@
         <test-name value="check curry working" />
       </test-names>
     </configuration>
-    <configuration name="omit properties" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+    <configuration name="max price is greate than 250" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/__tests__/object/workingWithNestedObject.spec.ts" />
+      <test-file value="$PROJECT_DIR$/__tests__/function/partial.spec.ts" />
       <test-names>
-        <test-name value="omit properties" />
+        <test-name value="max price is greate than 250" />
+      </test-names>
+    </configuration>
+    <configuration name="price is less than 10" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/function/partial.spec.ts" />
+      <test-names>
+        <test-name value="price is less than 10" />
       </test-names>
     </configuration>
     <configuration name="test functional switch" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
@@ -255,30 +339,20 @@
         <test-name value="test functional switch" />
       </test-names>
     </configuration>
-    <configuration name="try to parse invalid json" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/__tests__/utility/index.ts" />
-      <test-names>
-        <test-name value="try to parse invalid json" />
-      </test-names>
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Jest.omit properties" />
-      <item index="1" class="java.lang.String" itemvalue="Jest.try to parse invalid json" />
-      <item index="2" class="java.lang.String" itemvalue="Jest.check curry working" />
-      <item index="3" class="java.lang.String" itemvalue="Jest.Partial function" />
-      <item index="4" class="java.lang.String" itemvalue="Jest.test functional switch" />
+      <item index="0" class="java.lang.String" itemvalue="Jest.check curry working" />
+      <item index="1" class="java.lang.String" itemvalue="Jest.Partial function" />
+      <item index="2" class="java.lang.String" itemvalue="Jest.test functional switch" />
+      <item index="3" class="java.lang.String" itemvalue="Jest.price is less than 10" />
+      <item index="4" class="java.lang.String" itemvalue="Jest.max price is greate than 250" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Jest.test functional switch" />
-        <item index="1" class="java.lang.String" itemvalue="Jest.Partial function" />
-        <item index="2" class="java.lang.String" itemvalue="Jest.check curry working" />
-        <item index="3" class="java.lang.String" itemvalue="Jest.try to parse invalid json" />
-        <item index="4" class="java.lang.String" itemvalue="Jest.omit properties" />
+        <item index="0" class="java.lang.String" itemvalue="Jest.max price is greate than 250" />
+        <item index="1" class="java.lang.String" itemvalue="Jest.price is less than 10" />
+        <item index="2" class="java.lang.String" itemvalue="Jest.test functional switch" />
+        <item index="3" class="java.lang.String" itemvalue="Jest.Partial function" />
+        <item index="4" class="java.lang.String" itemvalue="Jest.check curry working" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +370,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507482810718</updated>
       <workItem from="1507482812194" duration="11149000" />
-      <workItem from="1507978024547" duration="19539000" />
+      <workItem from="1507978024547" duration="21183000" />
     </task>
     <servers />
   </component>
@@ -310,11 +384,20 @@
     <history-entry file="check_curry_working - 2017.10.14 at 17h 04m 31s.xml">
       <configuration name="check curry working" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="omit_properties - 2017.10.14 at 15h 28m 20s.xml">
-      <configuration name="omit properties" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="max_price_is_greate_than_250 - 2017.10.14 at 23h 39m 01s.xml">
+      <configuration name="max price is greate than 250" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="pick_multiple_nested_properies_-_preserving_object_structure - 2017.10.14 at 15h 26m 16s.xml">
-      <configuration name="pick multiple nested properies - preserving object structure" configurationId="JavaScriptTestRunnerJest" />
+    <history-entry file="max_price_is_greate_than_250 - 2017.10.14 at 23h 39m 30s.xml">
+      <configuration name="max price is greate than 250" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="price_is_less_than_10 - 2017.10.14 at 23h 31m 17s.xml">
+      <configuration name="price is less than 10" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="price_is_less_than_10 - 2017.10.14 at 23h 35m 38s.xml">
+      <configuration name="price is less than 10" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="price_is_less_than_10 - 2017.10.14 at 23h 36m 41s.xml">
+      <configuration name="price is less than 10" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
     <history-entry file="test_functional_switch - 2017.10.14 at 22h 35m 45s.xml">
       <configuration name="test functional switch" configurationId="JavaScriptTestRunnerJest" />
@@ -322,18 +405,9 @@
     <history-entry file="test_functional_switch - 2017.10.14 at 22h 36m 02s.xml">
       <configuration name="test functional switch" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
-    <history-entry file="try_to_parse_invalid_json - 2017.10.14 at 16h 56m 14s.xml">
-      <configuration name="try to parse invalid json" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="try_to_parse_invalid_json - 2017.10.14 at 16h 56m 59s.xml">
-      <configuration name="try to parse invalid json" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="try_to_parse_invalid_json - 2017.10.14 at 16h 57m 30s.xml">
-      <configuration name="try to parse invalid json" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30688000" />
+    <option name="totallyTimeSpent" value="32332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -346,7 +420,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6196944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49575552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4533107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4499151" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38879457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -691,26 +765,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/function/curry.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/function/partial.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/function/partial.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -797,26 +855,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/fp/switchcase.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__tests__/fp/switchcase.spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/fp/objectValidator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -831,8 +873,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fp/chain/basic-chain.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/fp/switchcase.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/function/curry.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/function/partial.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <marker date="1508013555297" expanded="true" signature="217:358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/fp/objectValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/function/partial.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding />
         </state>
       </provider>
