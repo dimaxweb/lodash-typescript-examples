@@ -18,7 +18,7 @@ export class ChainExample {
       .value();
   }
 
-  public getMapFilterSort (path : String,map : Function,filter:Function,sort :Function){
+  public getMapFilterAndSort (path : String, map : Function, filter:Function, sort :Function){
     return _.chain(this.complexObject)
       .get(path)
       .value();

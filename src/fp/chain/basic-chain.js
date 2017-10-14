@@ -14,7 +14,7 @@ var ChainExample = /** @class */ (function () {
         })
             .value();
     };
-    ChainExample.prototype.getMapFilterSort = function (path, map, filter, sort) {
+    ChainExample.prototype.getMapFilterAndSort = function (path, map, filter, sort) {
         return _.chain(this.complexObject)
             .get(path)
             .value();
